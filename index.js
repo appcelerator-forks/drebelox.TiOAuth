@@ -187,6 +187,7 @@ function binb2b64(binarray) {
   return str;
 }
 
+var OAuth; if (OAuth == null) OAuth = {};
 
 OAuth.setProperties = function setProperties(into, from) {
   if (into != null && from != null) {
