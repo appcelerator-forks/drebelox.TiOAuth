@@ -1,0 +1,15 @@
+{
+  "name": "TiOAuth",
+  "repo": "drebelox/TiOAuth",
+  "description": "Commonjs Implementation of Titanium-OAuth-Client",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js",
+    "lib/oauth.js"
+  ]
+}
