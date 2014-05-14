@@ -1,7 +1,6 @@
 {
   "name": "TiOAuth",
   "repository": "drebelox/TiOAuth",
-  "author": "Bodhi5 <drebelo@bodhi5.com>",
   "description": "Commonjs Implementation of Titanium-OAuth-Client",
   "version": "0.0.1",
   "keywords": [],
@@ -16,6 +15,5 @@
   "main": "index.js",
   "scripts": [
     "index.js"
-  ],
-  "repo": "https://raw.github.com/drebelox/TiOAuth"
+  ]
 }
