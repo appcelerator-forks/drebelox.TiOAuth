@@ -1,5 +1,5 @@
 {
-  "name": "TiOAuth",
+  "name": "tioauth",
   "repository": "drebelox/TiOAuth",
   "description": "Commonjs Implementation of Titanium-OAuth-Client",
   "version": "0.0.1",
