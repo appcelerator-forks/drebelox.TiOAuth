@@ -686,7 +686,7 @@ function TitaniumOAuth(ck, cs, at, ts) {
       }).show();
     };
 
-    xhr.open(options.method, finalUrl, false);
+    xhr.open(options.method, finalUrl);
     xhr.send();
   };
 };
